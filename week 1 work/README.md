@@ -1,6 +1,6 @@
 # Overview
 
-This is a basic hello world program.I created this to show how Visual Studio Code, Python, and GitHub can all be integrated together.
+This is a basic hello world program. I created this to show how Visual Studio Code, Python, and GitHub can all be integrated together.
 
 
 
